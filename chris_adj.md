@@ -1,1 +1,1 @@
-Eager to learn more about python for data analysis and machine learning.
+Eager to learn more about the python for data science and machine learning.
